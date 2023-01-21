@@ -12,7 +12,7 @@ we are saving server id for 24/7 voice channel and user id for custom queue and 
 
 ``HOW LONG DO WE STORE DATA FOR?``
 
-wE are string guild id until server admin or owner disable 247 command and user id stored for custom queue so user can easily manage queue
+we are stroing guild id until server admin or owner disable 247 command and user id stored for custom queue so user can easily manage queue
 
 ``HOW CAN I CONTACT YOU IF I HAVE CONCERNS ABOUT YOUR BOT?``
 
